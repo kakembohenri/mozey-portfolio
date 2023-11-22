@@ -16,7 +16,7 @@ import background from "../../assets/Images/background/background_pic.jpg"
                     <div class="about-info" style="font-size: larger;"> 
                       <p><span class="title-s text-black">Name: </span> <span>Jerry Kwesi Daniels </span></p>
                       <p><span class="title-s text-black">Profile: </span> <span>Front end developer / Software Developer</span></p>
-                      <p><span class="title-s text-black">Email: </span> <span>jerrydaniels@gmail.com</span></p>
+                      <p><span class="title-s text-black">Email: </span> <span>jerrydaniels201@gmail.com</span></p>
                     </div>
                    </div>
                 </div>

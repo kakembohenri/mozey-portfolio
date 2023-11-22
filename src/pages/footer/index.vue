@@ -6,7 +6,7 @@
           <div class="copyright-box">
             <p class="copyright">&copy; Copyright <strong>Jerry Kwasi Daniels</strong>. All Rights Reserved</p>
             <div class="credits">
-              Designed by <a href="https://ojokmichaelocan.com/"> Jerry Kwesi Daniels</a>
+              Designed by Jerry Kwesi Daniels
             </div>
           </div>
         </div>

@@ -62,8 +62,8 @@
                         If you have any questions or any business that you would like me to handle, please do not hesitate to get in touch
                       </p>
                       <ul class="list-ico">
-                        <li><span class="bi bi-geo-alt"></span> 1205 Sadelmakerebyn 9b, Bunkeflostrand, Malmo, 212 58</li>
-                        <li><span class="bi bi-phone"></span> (+46) 793559952</li>
+                        <li><span class="bi bi-geo-alt"></span>Europe</li>
+                        <li><span class="bi bi-phone"></span>0046793559952/00447923455186</li>
                         <li><span class="bi bi-envelope"></span> jerrydaniels201@gmail.com</li>
                       </ul>
                     </div>
